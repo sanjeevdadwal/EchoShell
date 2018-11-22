@@ -2,4 +2,6 @@
 
 echo "hello, today is $(date)"
 
-Echo "I am modified this file to trigger new build"
+echo "I am modified this file to trigger new build"
+
+echo " changed again"
